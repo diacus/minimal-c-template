@@ -1,0 +1,35 @@
+/autom4te.cache/
+/build/
+/build-debug/
+
+# Archivos de configuración generados
+/aclocal.m4
+/compile
+/config.h
+/config.h.in
+/config.log
+/config.status
+/configure
+/configure~
+/depcomp
+/install-sh
+/missing
+/stamp-h1
+
+# Makefiles generados
+/Makefile
+/Makefile.in
+/src/Makefile
+/src/Makefile.in
+
+# Archivos auxiliares
+*.m4
+*.log
+*.tar.gz
+*.aux
+*.dvi
+*.la
+*.lo
+*.o
+*.loT
+*~
